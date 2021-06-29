@@ -25,7 +25,9 @@ html,body{
     padding-right: 5%;
     padding-bottom: 5%;
     align-items: center;   
-    
+    -webkit-box-shadow: 7px 6px 55px 10px rgba(48,29,48,1);
+-moz-box-shadow: 7px 6px 55px 10px rgba(48,29,48,1);
+box-shadow: 7px 6px 55px 10px rgba(48,29,48,1)
 }
 
 .box{display: flex;
